@@ -28,6 +28,23 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<h2>Registration</h2>
+
+<p>
+  Space is limited to 24 participants for this workshop
+  and registration is required. A fee of $46.00 will 
+  be charged and lunch will be provided both days. 
+  Please plan on attending the entire time for both days.
+  You can register in UF's conference system here:
+</p>
+
+<p><strong>
+  We expect to open registration for this workshop on Wednesday, 9/19/2018.
+  <!-- <a href="">Register Now</a> -->
+  <!-- Registration is now full -->
+</strong></p>
+
+
 {% comment %}
   EVENTBRITE
 

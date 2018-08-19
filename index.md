@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "UF Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "UF Informatics Institute One Day R Workshop"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Computer, Information, Science and Engineering (CSE) building room E251 (off courtyard facing Centennial Tower)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -278,14 +278,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if page.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
+  To participate in 
+  this
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.

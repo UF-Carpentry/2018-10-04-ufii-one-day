@@ -32,9 +32,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p>
   Space is limited to 24 participants for this workshop
-  and registration is required. A fee of $46.00 will 
-  be charged and lunch will be provided both days. 
-  Please plan on attending the entire time for both days.
+  and registration is required. A fee of $23.00 will 
+  be charged and lunch will be provided. 
+  Please plan on attending the entire time.
   You can register in UF's conference system here:
 </p>
 

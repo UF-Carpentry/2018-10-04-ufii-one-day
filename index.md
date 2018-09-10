@@ -39,7 +39,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  We expect to open registration for this workshop on Wednesday, 9/19/2018.
+  We expect public registration to open for this workshop on Wednesday, 9/19/2018. Early registration for ADBC summit attendees is now open (9/10/2018), please email mcollins@acis.ufl.edu for a direct link.
   <!-- <a href="">Register Now</a> -->
   <!-- Registration is now full -->
 </strong></p>

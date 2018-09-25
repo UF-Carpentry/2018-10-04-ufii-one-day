@@ -40,8 +40,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p><strong>
   <!--We expect public registration to open for this workshop on Wednesday, 9/19/2018. Early registration for ADBC summit attendees is now open (9/10/2018), please email mcollins@acis.ufl.edu for a direct link.-->
-  <a href="http://reg.conferences.dce.ufl.edu/SSP/1400069813">Register Now</a>
-  <!-- Registration is now full -->
+  <!--<a href="http://reg.conferences.dce.ufl.edu/SSP/1400069813">Register Now</a>-->
+  Registration is now full
 </strong></p>
 
 
